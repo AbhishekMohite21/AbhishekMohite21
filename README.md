@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Rajendra Mohite</h1>
 
 <h3 align="center">
-Software Developer | Angular | Ionic | Spring Boot | Java
+Software Engineer | Java | Angular | Spring Boot | Ionic
 </h3>
 
 ---
