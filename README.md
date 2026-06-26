@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Abhishek Mohite
 
-<!--
-**AbhishekMohite21/AbhishekMohite21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer | Angular | Ionic | Spring Boot | Java
 
-Here are some ideas to get you started:
+💼 **Software Developer with 1+ year of experience**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building Enterprise Web & Mobile Applications
+
+🌱 Currently working on:
+- Angular
+- Ionic
+- Spring Boot
+- Java
+- REST APIs
+
+📍 Pune, Maharashtra, India
+
+📧 Email: abhishekmohite4331@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/AbhishekMohite
+
+🌐 Portfolio:
+https://portfolio-sepia-eta-42.vercel.app
