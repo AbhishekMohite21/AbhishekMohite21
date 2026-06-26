@@ -65,7 +65,7 @@ Software Engineer | Java | Angular | Spring Boot | Ionic
 
 - 📧 **Email:** abhishekmohite4331@gmail.com
 
-- 💼 **LinkedIn:** https://linkedin.com/in/AbhishekMohite
+- 💼 **LinkedIn:** https://linkedin.com/in/abhishek-mohite-java/
 
 - 🌐 **Portfolio:** https://portfolio-sepia-eta-42.vercel.app
 
