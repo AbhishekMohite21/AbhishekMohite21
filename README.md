@@ -1,5 +1,10 @@
+```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abhishek%20Rajendra%20Mohite&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20Angular%20|%20Ionic%20|%20Spring%20Boot%20|%20Java&descAlignY=70"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhishekMohite21&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -89,6 +94,16 @@ Software Engineer | Java | Angular | Spring Boot | Ionic
 
 ---
 
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekMohite21&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🚀 Enterprise Portfolio
@@ -115,3 +130,4 @@ Software Engineer | Java | Angular | Spring Boot | Ionic
 ⭐️ Thanks for visiting my profile!
 
 </p>
+```
