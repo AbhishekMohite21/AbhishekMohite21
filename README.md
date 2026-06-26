@@ -85,10 +85,10 @@ Software Engineer | Java | Angular | Spring Boot | Ionic
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMohite21&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbhishekMohite21&theme=algolia&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekMohite21&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 <p align="center">
